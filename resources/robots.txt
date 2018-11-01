@@ -1,0 +1,10 @@
+<html lang="pt-br">
+  <head>
+    <title>Web Server</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Web Server</h1>
+    <p>Server web read files!</p>
+  </body>
+</html>
